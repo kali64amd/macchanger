@@ -11,7 +11,7 @@ If you can, please take a minute to star this repo and follow me, It will be muc
 
 To install this script, type following commands in your shell:
 
-https://github.com/kali64amd/macchanger.git
+git clone https://github.com/kali64amd/macchanger.git
 
 To execute script 
 
